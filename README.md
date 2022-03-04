@@ -1,2 +1,2 @@
 # dotnet-aad-storage
-Dotnet core example for Ada and azure storage act
+Dotnet core example for AAD and azure storage act
